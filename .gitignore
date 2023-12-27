@@ -1,0 +1,37 @@
+# MacOS
+.DS_Store
+
+# LaTeX project
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.synctex(busy)
+*.lof
+*.lot
+*.glo
+*.ist
+*.acn
+*.acr
+*.alg
+*.glg
+*.gls
+*.glsdefs
+*.ist
+*.loa
+*.lol
+*.fls
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.fdb_latexmk
+*.swp
